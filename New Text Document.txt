@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 mewtwo
 456
+=======
+mewth
+123
+>>>>>>> 0c543486bfab8f49ee1cc47ca1e6bcad389c2714
